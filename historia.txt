@@ -1,9 +1,5 @@
-esta es la historia de daniel perez
+esta es la historia de daniel
 
-alguien que queria aprender git y github
+alguien que queria aprender git
 
-pero si podia y le hecho ganas
-
-ahora va a provar mas
-
-Esto se esta poniendo interesante
+ahora vamos a tratar de volver a una version vieja
